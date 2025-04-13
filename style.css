@@ -64,7 +64,7 @@ header ul li a:hover {
     content: '';
     position: absolute;
     bottom: 0;
-    height: 100vh;
+    height: 100px;
     width: 100%;
     background: linear-gradient(to top, #200016, transparent);
 }
